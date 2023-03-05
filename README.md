@@ -70,6 +70,10 @@
 <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100006860359313&mibextid=ZbWKwL" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<a href="https://masterismail.hashnode.dev/" target="_blank">
+<img src="https://img.shields.io/badge/hashnode-%23404d59.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Logo" style="margin-bottom: 5px;" />
+
+</a>  
   
 
 <br/>  

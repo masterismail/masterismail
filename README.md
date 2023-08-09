@@ -61,16 +61,16 @@
 
 
 ## Connect with me  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ismail-b84779234/" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-ismail-b84779234/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/masterismail09" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>  
-<a href="https://instagram.com/https://instagram.com/masterismail_09?igshid=NmQ2ZmYxZjA=" target="_blank">
+<a href="https://instagram.com/masterismail_09?igshid=NmQ2ZmYxZjA=" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100006860359313&mibextid=ZbWKwL" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100006860359313&mibextid=ZbWKwL" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 <a href="https://masterismail.hashnode.dev/" target="_blank">

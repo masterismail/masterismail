@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Kubernetes  
   
 
-- ⚡ Fun fact: This programmer has a talent for both coding and basketball - always ready to hack the court or the code!  
+- always ready to hack the court or the code!  
   
 
 <br/>  

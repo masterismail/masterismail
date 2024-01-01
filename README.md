@@ -9,11 +9,9 @@
 - 🔭 I’m currently working on Python Projects  
   
 
-- 🌱 I’m currently learning Kubernetes  
+- 🌱 getting hands on MLOps  
   
 
-- always ready to hack the court or the code!  
-  
 
 <br/>  
 
